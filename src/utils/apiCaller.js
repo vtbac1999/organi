@@ -3,7 +3,7 @@ import axios from 'axios';
 function callAPI(enPoint,method,body) {
     return axios({
         method: method,
-        url: `https://agile-coast-07348.herokuapp.com/${enPoint}`,
+        url: `sever-ogani-api1-j80g19lq9-vtbac1999.vercel.app/${enPoint}`,
         data: body
       })
       .catch (err =>{
