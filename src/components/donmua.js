@@ -23,7 +23,7 @@ function Donmua() {
                         <ul>
                             <li><a href="/">Tất Cả</a></li>
                             <li><a href="./shop-grid.html">Chờ Xác Nhận</a></li>
-                            <li><a href="#">Chờ Lấy Hàng</a>
+                            <li><a href="">Chờ Lấy Hàng</a>
                             </li>
                             <li><a href="./blog">Đang Giao Hàng</a></li>
                             <li><a href="./contact">Đã Giao Hàng</a></li>
