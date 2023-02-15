@@ -10,7 +10,7 @@ function Productlist(props) {
                         <div className="featured__item__pic set-bg">
                             <img src={props.image} />
                             <ul className="featured__item__pic__hover">
-                                <li><a href="#"><i className="fa fa-shopping-cart" 
+                                <li><a href=""><i className="fa fa-shopping-cart" 
                                 aria-hidden="true"  accessKey={props.index} 
                                 onClick={e=>props.Cart(e)} ></i> </a></li>
                             </ul>
