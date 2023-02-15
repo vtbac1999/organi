@@ -48,8 +48,8 @@ function Header() {
                                 <div>English</div>
                                 <span className="arrow_carrot-down"></span>
                                 <ul>
-                                    <li><a href="#">Spanis</a></li>
-                                    <li><a href="#">English</a></li>
+                                    <li><a href="">Spanis</a></li>
+                                    <li><a href="">English</a></li>
                                 </ul>
                             </div>
                             <div className="header__top__right__auth">
@@ -76,7 +76,7 @@ function Header() {
                         <ul>
                             <li className="active"><a href="/">Home</a></li>
                             <li><a href="./shop-grid.html">Shop</a></li>
-                            <li><a href="#">Pages</a>
+                            <li><a href="">Pages</a>
                                 <ul className="header__menu__dropdown">
                                     <li><a href="./shop-details">Shop Details</a></li>
                                     <li><a href="./shoping-cart">Shoping Cart</a></li>
@@ -92,7 +92,7 @@ function Header() {
                 <div className="col-lg-3">
                     <div className="header__cart">
                         <ul>
-                            <li><a href="#"><i className="fa fa-heart"></i> <span>1</span></a></li>
+                            <li><a href=""><i className="fa fa-heart"></i> <span>1</span></a></li>
                             <li><a href="/shoping-cart"><i className="fa fa-shopping-bag"></i> <span>{count}</span></a></li>
                         </ul>
                         <div className="header__cart__price">item: <span>$150.00</span></div>
